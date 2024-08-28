@@ -28,6 +28,10 @@
     h3.navbar-brand {
         font-size: 12px;
     }
+    .small-screen-hidden {
+      margin-bottom: 5px;
+      padding-bottom: 5px;
+    }
 }
 
 @media (min-width: 1200px) {
